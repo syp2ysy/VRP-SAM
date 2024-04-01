@@ -1,0 +1,22 @@
+
+:=========== Few-shot Seg. with HSNet ===========
+|             datapath: /root/paddlejob/workspace/env_run/datsets/
+|            benchmark: coco                    
+|              logpath: trn1_coco_mask_fold0    
+|                  bsz: 2                       
+|                   lr: 0.0001                  
+|         weight_decay: 1e-06                   
+|               epochs: 50                      
+|              nworker: 8                       
+|                 seed: 321                     
+|                 fold: 0                       
+|            condition: mask                    
+|           use_ignore: True                    
+|           local_rank: 0                       
+|            num_query: 50                      
+|             backbone: resnet50                
+:================================================
+
+Backbone # param.: 23685367
+Learnable # param.: 1592064
+Total # param.: 25277431
