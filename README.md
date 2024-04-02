@@ -12,8 +12,6 @@ Authors: Yanpeng Sun, Jiahui Chen, Shan Zhang, Xinyu Zhang, Qiang Chen, Gang Zha
     <img src="assets/vrp_sam.jpg" height="360">
 </p>
 
-For more information, please check our paper on [[arXiv](https://arxiv.org/abs/2402.17726)].
-
 ## Requirements
 
 - Python 3.10
