@@ -1,5 +1,12 @@
 ## VRP-SAM: SAM with Visual Reference Prompt
-This is the official implementation of the paper "VRP-SAM: SAM with Visual Reference Prompt" by Yanpeng Sun, Jiahui Chen, etc. Implemented on Python 3.10 and Pytorch 1.12.
+
+**Update**:
+1. The manuscript has been accepted in __CVPR 2024__.
+2. **Core code has been updated**
+
+This is the official implementation based on pytorch of the paper [VRP-SAM: SAM with Visual Reference Prompt](https://arxiv.org/abs/2402.17726) 
+
+Authors: Yanpeng Sun, Jiahui Chen, Shan Zhang, Xinyu Zhang, Qiang Chen, Gang Zhang, Errui Ding, Jingdong Wang, [Zechao Li](https://zechao-li.github.io/)
 
 <p align="middle">
     <img src="assets/vrp_sam.jpg" height="360">
